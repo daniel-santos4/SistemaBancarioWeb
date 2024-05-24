@@ -1,0 +1,12 @@
+br\gov\caixa\enums\TipoCliente.class
+br\gov\caixa\repository\ClienteRepository.class
+br\gov\caixa\controller\SistemaBancarioController.class
+br\gov\caixa\service\ClienteService.class
+br\gov\caixa\entity\Conta.class
+br\gov\caixa\entity\ContaCorrente.class
+br\gov\caixa\config\AppConfiguration.class
+br\gov\caixa\dto\response\ClienteResponseDto.class
+br\gov\caixa\dto\request\ClienteRequestDto.class
+br\gov\caixa\entity\Cliente.class
+br\gov\caixa\SistemaBancarioMain.class
+br\gov\caixa\enums\Situacao.class

@@ -1,0 +1,12 @@
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\SistemaBancarioMain.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\enums\Situacao.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\controller\SistemaBancarioController.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\dto\request\ClienteRequestDto.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\repository\ClienteRepository.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\entity\ContaCorrente.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\entity\Cliente.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\enums\TipoCliente.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\config\AppConfiguration.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\dto\response\ClienteResponseDto.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\entity\Conta.java
+C:\Daniel\sistema-bancario-web\src\main\java\br\gov\caixa\service\ClienteService.java
